@@ -1,1 +1,1 @@
-# Algoritmika-Final-Comp-E-Commerce-Project
+# Algoritmika-Final-Technology-E-Commerce-Project
